@@ -1,0 +1,10 @@
+*.tlog
+/gsoap-2.8/gsoap/VisualStudio2005/wsdl2h/wsdl2h/Debug/*.manifest
+/gsoap-2.8/gsoap/VisualStudio2005/wsdl2h/_UpgradeReport_Files/*.xslt
+/gsoap-2.8/gsoap/VisualStudio2005/wsdl2h/wsdl2h/Debug/*.lastbuildstate
+/gsoap-2.8/gsoap/VisualStudio2005/wsdl2h/wsdl2h/Debug/*.res
+/gsoap-2.8/gsoap/VisualStudio2005/wsdl2h/_UpgradeReport_Files/*.gif
+/gsoap-2.8/gsoap/VisualStudio2005/wsdl2h/wsdl2h/*.nsmap
+/gsoap-2.8/gsoap/VisualStudio2005/wsdl2h/wsdl2h/Debug/*.rc
+/gsoap-2.8/gsoap/VisualStudio2005/wsdl2h/_UpgradeReport_Files/*.css
+/gsoap-2.8/gsoap/VisualStudio2005/wsdl2h/UpgradeLog.XML
